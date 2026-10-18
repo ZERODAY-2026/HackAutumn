@@ -36,3 +36,28 @@ DataMind is an AI-powered open-source data agent that lets users ask questions i
    ```bash
    git clone [https://github.com/ubrahmmani/datamind.git](https://github.com/ubrahmmani/datamind.git)
    cd datamind
+
+## SQL Exploration — Customer Data Analysis
+
+As part of the PS1 (DataMind: Talk to Your Data) checkpoint, we explored SQL queries for customer data analysis using Snowflake.
+
+The following screenshots show the outputs obtained by executing our SQL queries.
+
+### 1. Customer Preview
+
+Displays a preview of the customer data used for analysis.
+
+![Customer Preview](screenshots/customer_preview.png)
+
+### 2. Market Segment Analysis
+
+Shows the output of the query used to analyze customer market segments.
+
+![Market Segment Query](screenshots/market_segment_query.png)
+
+### 3. Overall Aggregation
+
+Shows the results of the overall aggregation query.
+
+![Overall Aggregation](screenshots/overall_aggregation.png)
+ 

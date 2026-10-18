@@ -1,4 +1,9 @@
 # HackAutumn
+
+#Problem statement :
+The challenge: Organizations hold large amounts of information in databases, spreadsheets, documents and other sources. Getting a useful answer often takes technical skills, specialised queries or hours of manual searching, so the people who understand the questions best are often the least able to reach the data. 
+Our mission: Create an AI-powered data experience that lets people ask questions in everyday language and get useful answers grounded in the available data, with enough explanation that users trust the response reflects the information actually examined. 
+
 # DataMind - Talk to Your Data
 
 ## Project Overview
